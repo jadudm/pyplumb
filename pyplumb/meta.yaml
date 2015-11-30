@@ -1,0 +1,23 @@
+package:
+  name: pyplumb
+  version: "0.1.0"
+ 
+source:
+  git_rev: 0.1.0
+  git_url: https://github.com/jadudm/pyplumb.git
+ 
+requirements:
+  build:
+    - python
+    - setuptools
+  run:
+    - python
+ 
+test:
+  imports:
+    - 
+ 
+about:
+  home: http://concurrency.cc/
+  license: MIT
+  license_file: LICENSE
