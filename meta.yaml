@@ -13,11 +13,8 @@ requirements:
   run:
     - python
  
-test:
-  imports:
-    - 
- 
 about:
   home: http://concurrency.cc/
   license: MIT
   license_file: LICENSE
+	summary: A tool for writing occam programs for the Arduino.
